@@ -6,6 +6,17 @@ Binance vadeli işlemler piyasasından canlı veri çekerek **10 farklı kripto 
 
 ---
 
+## 💡 Yatırımcı ve Kullanıcı Özeti
+
+Bu sistem, karmaşık teknik verileri ve yapay zeka algoritmalarını kullanarak sizin için piyasayı 7/24 tarar. Teknik detaylara girmeden sistemin size sağladığı temel faydalar şunlardır:
+
+*   **Akıllı Tarama:** Sadece fiyatı değil, balina hareketlerini ve piyasadaki para akışını da analiz ederek en doğru fırsatları arar.
+*   **Duygu Analizi:** Piyasadaki korku ve açgözlülük seviyelerini kontrol ederek "panik" veya "aşırı coşku" anlarında sizi korur.
+*   **Risk Koruması:** Sistem her zaman işlem yapmaz. Eğer piyasa çok riskli veya belirsizse, "Nakit en iyi pozisyondur" diyerek sermayenizi korumaya odaklanır.
+*   **Bilimsel Yaklaşım:** Duygularla değil, geçmiş 2 yıllık veriye dayanan matematiksel modellerle (XGBoost, Monte Carlo vb.) karar verir.
+
+---
+
 ## 📊 Desteklenen Varlıklar
 
 | BTC/USDT | ETH/USDT | BNB/USDT | SOL/USDT | XRP/USDT |
